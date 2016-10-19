@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>nodejs</title>
+  <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <!-- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"> -->
+</head>
+<body>
+<div class="col-xs-4 sign"></div>
+<div class="col-xs-4 sign">Login</div>
+<div class="col-xs-4 sign"></div>
+<div class="col-xs-5 frm"></div>
+<div class="col-xs-7 frm">
+<form method="post" action="/success">
+
+  <p>
+    <label>Username:</label>
+    <input type="text" name="username">
+  </p>
+  <p>
+    <label>Password:</label>
+    <input type="password" name="password">
+  </p>
+  <p><a href="reset">forgot password</a></p>
+  <p>
+    <button type="submit" value="login">login</button>
+  </p>
+</form>
+</div>
+</body>
+</html>

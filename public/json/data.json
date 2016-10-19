@@ -1,0 +1,20 @@
+[
+	{
+		"head":"Blog React",
+		"content":"React is this year’s favorite JavaScript project! Everyone seems to be talking about ReactJS. Every conference I have been to in the last year had at least a couple of talks on React and other libraries in the same family (Flux, Redux) React is open-source and developed mostly by Facebook with contributions from other major tech companies. React describes itself as a JavaScript library for building user interfaces.",
+		"date":"10/08/2016",
+		"author":"renjini"
+	},
+	{
+		"head":"Blog Backbone",
+		"content":" Backbone is a famously simple framework that fits into a single JavaScript file. Backbone has been around for a while; developed by Jeremy Ashkenas from CoffeeScript and Underscore fame. Backbone is especially popular with teams looking for a simple structure for their small web applications without bringing in a large framework like Angular or Ember.",
+		"date":"10/05/2016",
+		"author":"swathi"
+	},
+	{
+		"head":"Blog Karma",
+		"content":"Having included Mocha and Chai on this list, it would be incomplete not to include a test runner to run these tests or perhaps to setup continuous integration testing. Karma is a tool designed to help automate running your tests against different browsers. It will help you run your Mocha and Chai tests on all the browsers out there.",
+		"date":"04/03/2016",
+		"author":"josmi"
+	}
+]
